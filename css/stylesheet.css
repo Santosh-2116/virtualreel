@@ -323,7 +323,7 @@ li a{
     background: linear-gradient(120deg,#a800da,#6f00fd);
     padding: 10px;
     border-radius: 10px;
-    min-width: 400px;
+    min-width: 320px;
     max-width: 500px;
 }
 .hero-image img{
